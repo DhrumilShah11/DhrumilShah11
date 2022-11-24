@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhrumilShah11&layout=compact)](https://github.com/DhrumilShah11)
 
-<div><img alt=”React” src=”https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></div>
+<div><img alt='Flutter' src='https://img.shields.io/badge/Flutter-%2320232a.svg?style=for-the-badge&logo=flutter&logoColor=%2361DAFB'/></div>
 
 <!--
 **DhrumilShah11/DhrumilShah11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
